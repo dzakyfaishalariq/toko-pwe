@@ -1,4 +1,8 @@
 <?php
+// nama :Dzaky Faishalariq
+// npm  : G1A020003
+// Kelas Informatika A
+// tugas PIE membuat 10 controller dan 10 router
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ProfilController;
